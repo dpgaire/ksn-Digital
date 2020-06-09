@@ -1,2 +1,2 @@
-# ksn-Digital
+# kSNDigital
 Repo for the Agile project.
